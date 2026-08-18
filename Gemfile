@@ -40,6 +40,7 @@ gem "base64"
 gem "jekyll", "~> 3.9.0"
 gem "jekyll-theme-minima"
 gem "jekyll-remote-theme"
+gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
 gem "kramdown-parser-gfm"
 
