@@ -100,25 +100,29 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+A lifelong learner and tech pioneer, I've been fortunate to work across multiple decades of computing evolution:
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- 🏫 **Elementary Schools** - Tucson, Honolulu, LA, and Glendale (CA) - built my foundation
+- 🏫 **High School** - Hoover High in Glendale, graduated '77 - discovered technology
+- 🎓 **Early Tech Education** - Glendale Community College & LA Wilshire Computer Tech School ('77-'79) - dBase era
+- ⛪ **England** - LDS Missionary in London ('79-'81) - served and learned resilience
+- 💼 **Ashton-Tate** - Culver City/Glendale founder - built dBase 2 & 3 for original PCs ('82-'87)
+- 🎓 **University of Oregon** - CompSci degree ('89-'91) - Go Ducks! 
+- 💼 **Microniche & Point Control** - Eugene, Oregon - CAD CAM developer and founder ('88-'96)
+- 🏢 **Qualcomm** - San Diego, CA - Satellite Communications & 1st Mobile OS (BREW) ('96-'19) - 23 incredible years
+- 👨‍🏫 **Del Norte High School** - San Diego, CA - Computer Science Teacher ('19-present) - giving back to the next generation
 
-### Culture, Family, and Fun
+### Culture, Family, and Faith
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me revolves around family and faith—the two pillars that make life meaningful.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+**Heritage & Family:**
+- My mother shared that I have Danish, English, and Irish roots. I've researched and documented my [family tree]({{site.baseurl}}/images/about/familytree.png)
+- I've been blessed with a beautiful, large family. I was married twice—my first wife passed away. Together we had 5 children (4 adopted by me, 1 biological), and I've been blessed with three grandchildren
+- My grandchildren call me "Abuilito" (a term of endearment in Spanish)
+
+**Memories Through Photos:**
+Gallery of cherished moments—scroll to see family, adventures, faith, and culture memories:
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
