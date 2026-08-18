@@ -89,3 +89,17 @@ Welcome to my personal GitHub Pages site! This homepage serves as a central navi
   line-height: 1.4;
 }
 </style>
+
+---
+
+## 📖 Learning Experience Design (LxD) Summary
+
+This home page serves as a structured entry point for my web development workflow built on **GitHub Pages**, **Jekyll**, and **Jupyter Notebooks**:
+
+* **Interactive Development with Notebooks**: By integrating `.ipynb` files, I can execute client-side JavaScript (like dynamic joke generators) and run Bash scripts directly in my local environment to test runtime dependencies (Python, Jupyter kernel specs).
+* **Understanding Project Anatomy**: Managing files across directories such as `_posts` for blog content, `_notebooks` for raw code, `_layouts` for structural templates, and `.gitignore` to prevent tracking build artifacts is critical for maintaining an organized codebase.
+* **Theme System & Design Customization**: Using Jekyll's theme architecture alongside `Makefile` tasks (`make use-minima`, `make use-dracula`), I can switch site skins while preserving local layout overrides (such as `opencs.html`) and runtime styling preferences powered by SASS (`_sass/minima/custom-styles.scss`).
+* **Markdown & HTML Fragments**: Markdown provides a fast, human-readable format for writing documentation and course reflections, while embedded HTML fragments allow precise control over media elements, alignment, and interactive layouts like photo galleries and CSS grid cards.
+* **Dynamic Static Generation with Jekyll & Liquid**: Jekyll transforms simple Markdown content into full HTML web pages during the build process. Utilizing **Liquid** templating tags (`{% assign %}`, `{% for %}`, `{% if %}`) allows for dynamic rendering of page posts, navigational menus, and custom metadata defined in frontmatter or `_config.yml`.
+
+Organizing these links on my homepage provides an accessible structure for tracking my progress, reviewing core concepts, and applying hands-on hacks throughout the course.
