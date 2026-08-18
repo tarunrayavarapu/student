@@ -39,7 +39,7 @@ Hi! My name is Tarun Rayavarapu
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/code/javascript" style="text-decoration: none;">
+    <a href="{{site.basseurl}}/code/javascript" style="text-decoration: none;">
         <div style="background-color: var(--green); color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
            JS Basics
         </div>

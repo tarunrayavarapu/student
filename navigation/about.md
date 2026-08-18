@@ -78,46 +78,42 @@ for (const location of living_in_the_world) {
 outputElement.appendChild(container);
 </script>
 
-### Journey through Life
+---
 
-A lifelong learner and tech pioneer, I've been fortunate to work across multiple decades of computing evolution:
+## Journey through Life
 
-- 🏫 **Elementary Schools** - Tucson, Honolulu, LA, and Glendale (CA) - built my foundation
-- 🏫 **High School** - Hoover High in Glendale, graduated '77 - discovered technology
-- 🎓 **Early Tech Education** - Glendale Community College & LA Wilshire Computer Tech School ('77-'79) - dBase era
-- ⛪ **England** - LDS Missionary in London ('79-'81) - served and learned resilience
-- 💼 **Ashton-Tate** - Culver City/Glendale founder - built dBase 2 & 3 for original PCs ('82-'87)
-- 🎓 **University of Oregon** - CompSci degree ('89-'91) - Go Ducks! 
-- 💼 **Microniche & Point Control** - Eugene, Oregon - CAD CAM developer and founder ('88-'96)
-- 🏢 **Qualcomm** - San Diego, CA - Satellite Communications & 1st Mobile OS (BREW) ('96-'19) - 23 incredible years
-- 👨‍🏫 **Del Norte High School** - San Diego, CA - Computer Science Teacher ('19-present) - giving back to the next generation
+* 🏫 **Monterey Ridge Elementary School** - Built my foundation during early childhood.
+* 🏫 **Oak Valley Middle School** - Developed new interests, made lifelong friends, and grew academically.
+* 🎓 **Del Norte High School** - Current student focused on academics, athletics, and preparing for future goals.
 
-### Culture, Family, and Faith
+### Sports & Extracurriculars
+* ⚽ **Athletics & Sports** - Active in team sports, maintaining fitness, competitive spirit, and teamwork.
+* 📚 **Academics & STEM** - Exploring coursework in science, mathematics, and computer science.
 
-Everything for me revolves around family and faith—the two pillars that make life meaningful.
+---
 
-**Heritage & Family:**
-- My mother shared that I have Danish, English, and Irish roots. I've researched and documented my [family tree]({{site.baseurl}}/images/about/familytree.png)
-- I've been blessed with a beautiful, large family. I was married twice—my first wife passed away. Together we had 5 children (4 adopted by me, 1 biological), and I've been blessed with three grandchildren
-- My grandchildren call me "Abuilito" (a term of endearment in Spanish)
+## Photo Gallery
+*Scroll to the right for more memories...*
 
-**Memories Through Photos:**
-Gallery of cherished moments—scroll to see family, adventures, faith, and culture memories:
-
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="https://i.postimg.cc/68Tdcdq4/IMG-0299.jpg" alt="Childhood & School Days">
+  <img src="https://i.postimg.cc/Yvj1R104/IMG-8225.jpg" alt="Del Norte High School">
+  <img src="https://i.postimg.cc/0zrpnpjD/IMG-9099.jpg" alt="Family & Cultural Heritage">
 </div>
+
+<style>
+.image-gallery {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 12px;
+  padding: 10px 0;
+}
+.image-gallery img {
+  max-height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+</style>
+
