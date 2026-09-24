@@ -189,4 +189,4 @@ Leverage Jekyll static site generation with Liquid templating constructs like va
 
 ### [🛠️ Hacks & Challenges]({{ site.baseurl }}/hacks)
 
-Apply acquired web development skills, file management techniques, and custom projects into real-world 
+Apply acquired web development skills, file management techniques, and custom projects into real-wo
