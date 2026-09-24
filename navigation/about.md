@@ -80,7 +80,7 @@ outputElement.appendChild(container);
 
 ---
 
-## Journey through Life
+## Journey through Lif
 
 * 🏫 **Monterey Ridge Elementary School** - Built my foundation during early childhood.
 * 🏫 **Oak Valley Middle School** - Developed new interests, made lifelong friends, and grew academically.
