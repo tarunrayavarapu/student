@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Users
+title: User
 permalink: /devops/cloud_database
 ---
