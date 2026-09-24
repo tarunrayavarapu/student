@@ -88,7 +88,7 @@ outputElement.appendChild(container);
 
 ### Sports & Extracurriculars
 * ⚽ **Athletics & Sports** - Active in team sports, maintaining fitness, competitive spirit, and teamwork.
-* 📚 **Academics & STEM** - Exploring coursework in science, mathematics, and computer science.
+* 📚 **Academics & STEM** - Exploring coursework in science, mathematics, and computer science
 
 ---
 
