@@ -8,7 +8,7 @@ comments: true
 # About Me
 
 ## As a Conversation Starter
-Here are places connected to my heritage and life.
+Here are places connected to my heritage and life
 
 <div id="grid_container"></div>
 <script>
