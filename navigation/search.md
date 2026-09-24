@@ -1,6 +1,6 @@
 ---
 layout: search 
-title: Search
+title: Searc
 search_exclude: true
 permalink: /search/
 ---
