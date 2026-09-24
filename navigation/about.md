@@ -82,7 +82,7 @@ outputElement.appendChild(container);
 
 ## Journey through Lif
 
-* 🏫 **Monterey Ridge Elementary School** - Built my foundation during early childhood.
+* 🏫 **Monterey Ridge Elementary School** - Built my foundation during early childhood
 * 🏫 **Oak Valley Middle School** - Developed new interests, made lifelong friends, and grew academically.
 * 🎓 **Del Norte High School** - Current student focused on academics, athletics, and preparing for future goals.
 
