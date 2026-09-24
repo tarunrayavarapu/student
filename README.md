@@ -14,7 +14,7 @@ Exchange of information from this repository to you personal GitHub Pages can be
 
 1. sharing a file, ie: `wget "raw-link.ipynb"`
 2. creating a template from this repository
-3. creating a fork to be shared by you and team members
+3. creating a fork to be shared by you and team member
 4. etc.
 
 ---
