@@ -87,7 +87,7 @@ outputElement.appendChild(container);
 * 🎓 **Del Norte High School** - Current student focused on academics, athletics, and preparing for future goals.
 
 ### Sports & Extracurriculars
-* ⚽ **Athletics & Sports** - Active in team sports, maintaining fitness, competitive spirit, and teamwork.
+* ⚽ **Athletics & Sports** - Activ in team sports, maintaining fitness, competitive spirit, and teamwork.
 * 📚 **Academics & STEM** - Exploring coursework in science, mathematics, and computer science
 
 ---
